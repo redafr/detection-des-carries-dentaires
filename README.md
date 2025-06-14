@@ -5,7 +5,7 @@ Ce projet vise à détecter automatiquement les caries dentaires à partir d'ima
 ## Contenu du dépôt
 
 - `detection de carries dentaires.ipynb` : Notebook principal contenant l'ensemble du traitement.
-- `model_caries.h5` : Fichier du modèle entraîné (à déposer).
+- `model_caries.h5` : Fichier du modèle entraîné.
 - `README.md` : Ce fichier de description.
 
 ## Objectifs
